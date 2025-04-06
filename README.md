@@ -1,8 +1,6 @@
 # dio_fluxo_copilot
 Desafio DIO - Aprendizado - Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
-Claro! Aqui está um resumo formatado em **Markdown** sobre o que se aprenderia ao criar um Agente Copiloto com fluxo de conversa personalizado no **Microsoft Copilot Studio**, com foco no **atendimento pós-venda de um curso**:
-
 ---
 
 # 📚 Aprendizado: Criando um Agente Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
